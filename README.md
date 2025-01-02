@@ -1,6 +1,6 @@
 
 # Cotton Weave CSS 😊
-![My Banner](https://media.istockphoto.com/id/2184545239/photo/sunset.webp?a=1&b=1&s=612x612&w=0&k=20&c=oTseXdLBD7NjFaI-uwDfHwHcFZl8Uj9cEJ8lJ9-ZgfU=)
+![My Banner](https://github.com/akashm01github/Cotton_Weave_CSS/blob/main/CottenWeave/Screenshot%202025-01-02%20204150.png)
 
 Today I Completed this Project and here is my journey
 
